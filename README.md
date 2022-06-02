@@ -27,7 +27,7 @@ __izhodi__:
 
 
 
-##  Sliek:
+##  Slike:
 
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
