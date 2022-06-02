@@ -8,7 +8,7 @@ Spremeljivka i je namesto senzoraja kar pomeni da ko i v programu došeže neko 
 #Priredbeni seznam
 
 | Oznaka v načrtu |
-| --------------- | 
+| :---------------: | 
 | Content Cell | 
 | Content Cell |
 
