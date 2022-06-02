@@ -16,13 +16,13 @@ __Vhodi__:
 | /               |   i             |  Tipkalo N.O  | Senzor GOR  |
 | /               |   i             |  Tipkalo N.O  | Senzor DOL  |
 
-__i__ je v tem primiru uprabljen kot senzor go dvigalo pride do pozicije GOR ali do pozicije DOL
+__i__ je v tem primiru uprabljen kot senzor gko dvigalo pride do pozicije GOR ali do pozicije DOL
 
 __izhodi__:
 
-| Oznaka v načrtu | Naslov operanda | Vrst Kontakta |Pomen                 |
+| Oznaka v načrtu | Naslov operanda | Vrst Kontakta |Pomen                |
 | :-------------: | :-------------: | :-----------: | :-----------------: |   
-| LED1             |   LED          |  LED          | Premikanje Dvigala  |
+| LED1            |   LED           |  LED          | Premikanje Dvigala  |
 
 
 
