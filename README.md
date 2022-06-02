@@ -5,7 +5,7 @@ __DVIGALO za tovorjenje hrane 1__: V restavraciji je jedilnica v drugem nadstrop
 
 Spremeljivka i je namesto senzoraja kar pomeni da ko i v programu došeže neko stevilo se nekaj zgodi.
 
-##Priredbeni seznam
+## Priredbeni seznam
 
 __Vhodi__:
 
