@@ -1,2 +1,2 @@
-# Dvigalo
+# DVIGALO
 Simulacija Dvigal z Arduino
