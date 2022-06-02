@@ -5,14 +5,16 @@ __DVIGALO za tovorjenje hrane 1__: V restavraciji je jedilnica v drugem nadstrop
 
 Spremeljivka i je namesto senzoraja kar pomeni da ko i v programu došeže neko stevilo se nekaj zgodi.
 
+#Priredbeni seznam
+
+| Oznaka v načrtu  | Naslov operanda | | Vrsta kontakta | pomen |
+| ------------- | ------------- | | ------------- | | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
 
-#Priredbeni seznam
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
