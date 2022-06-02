@@ -9,10 +9,21 @@ Spremeljivka i je namesto senzoraja kar pomeni da ko i v programu došeže neko 
 
 __Vhodi__:
 
-| Oznaka v načrtu | Naslov operanda | Vrst Kontakta |Pomen |
-| :-------------: | :-------------: | :-----------: | :--: |   
-| Content Cell | Content Cell |  Content Cell |  Content Cell |  
-| Content Cell | Content Cell |  Content Cell |  Content Cell | 
+| Oznaka v načrtu | Naslov operanda | Vrst Kontakta |Pomen        |
+| :-------------: | :-------------: | :-----------: | :---------: |   
+| S1              |   but_G         |  Tipkalo N.O  | premik GOR  |
+| S2              |   but_D         |  Tipkalo N.O  | premik DOL  |
+| /               |   i             |  Tipkalo N.O  | Senzor GOR  |
+| /               |   i             |  Tipkalo N.O  | Senzor DOL  |
+
+i je v tem primiru uprabljen kot senzor go dvigalo pride do pozicije GOR ali do pozicije DOL
+
+__izhodi__:
+
+| Oznaka v načrtu | Naslov operanda | Vrst Kontakta |Pomen                 |
+| :-------------: | :-------------: | :-----------: | :-----------------: |   
+| LED1             |   LED          |  LED          | Premikanje Dvigala  |
+
 
 
 
