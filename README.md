@@ -5,4 +5,4 @@ __DVIGALO za tovorjenje hrane 1__: V restavraciji je jedilnica v drugem nadstrop
 
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
-![](https://github.com/AV-35/Dvigalo/blob/main/media/Schmatic.jpg)
+![](https://github.com/AV-35/Dvigalo/blob/main/media/schmatic.jpg)
