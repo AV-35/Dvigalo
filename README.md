@@ -9,3 +9,10 @@ Spremeljivka i je namesto senzoraja kar pomeni da ko i v programu došeže neko 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
+
+#Priredbeni seznam
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
