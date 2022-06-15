@@ -59,5 +59,5 @@ __izhodi__:
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
 
-<img src="https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg" width="48">
+<img src="https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg" widht="200" >
 
