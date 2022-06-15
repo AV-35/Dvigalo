@@ -57,4 +57,4 @@ __izhodi__:
 
 ## Slike:
 
-![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg){width=50%}
+![]<img src="https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg"width="400" height="790">
