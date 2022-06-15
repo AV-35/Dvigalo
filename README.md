@@ -28,13 +28,17 @@ __izhodi__:
 
 
 
-### Slike:
 
-![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
 
+
+##LAD diagram
+
+
+![](https://github.com/AV-35/Dvigalo/blob/main/media/Zajeta slika.PNG)
 
 
 ## Schematics
+
 
 ### Fritzing
 
@@ -47,4 +51,10 @@ __izhodi__:
 ### EasySoft
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic_Divgalo_EasySoft.jpg)
+
+
+## Slike:
+
+![](https://github.com/AV-35/Dvigalo/blob/main/media/IMG_3437.jpg)
+
 
