@@ -57,7 +57,7 @@ __izhodi__:
 
 ## Slike:
 
-<img src="https://github.com/AV-35/Dvigalo/blob/main/media/Arduino.jpg" width="800">
+<img src="https://github.com/AV-35/Dvigalo/blob/main/media/Arduino.jpg">
 
 
 
