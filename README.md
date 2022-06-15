@@ -35,7 +35,11 @@ __izhodi__:
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
 
-## Schematic Dvigal Mitsubishi/EasySoft
+## Schematics
+
+### Fritzing
+
+![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
 
 ### Mitsubishi
 
