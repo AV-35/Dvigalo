@@ -35,11 +35,11 @@ __izhodi__:
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
 
-## Schematic Dvigal Mitubishi/EasySoft
+## Schematic Dvigal Mitsubishi/EasySoft
 
 ### Mitsubishi
 
-![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic_Divgalo_Mitusbishi.jpg)
+![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic_Divgalo_Mitsubishi.jpg)
 
 ### EasySoft
 
