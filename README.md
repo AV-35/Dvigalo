@@ -39,7 +39,10 @@ __izhodi__:
 
 [embed]()[/embed]
 
-xfun::embed_file("https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf")
+xfun::embed_file("")
+
+<embed src="[/blog/images/xxx.pdf](https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf)" type="application/pdf">
+
 
 
 
