@@ -37,14 +37,5 @@ __izhodi__:
 
 ## Schematic Dvigal mitubishi/EasySoft
 
-[embed]()[/embed]
-
-xfun::embed_file("")
-
-<embed src="[/blog/images/xxx.pdf](https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf)" type="application/pdf">
-
-
-
-
 
 
