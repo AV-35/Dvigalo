@@ -35,5 +35,9 @@ __izhodi__:
 
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/Schematic.PNG)
 
-## Simulacija Dvigal z mitubishi alfo
+## Schematic Dvigal mitubishi/EasySoft
+
+![](https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf)
+
+
 
