@@ -31,10 +31,10 @@ __izhodi__:
 
 
 
-##LAD diagram
+## LAD diagram
 
 
-![](https://github.com/AV-35/Dvigalo/blob/main/media/Zajeta slika.PNG)
+![](https://github.com/AV-35/Dvigalo/blob/main/media/Zajeta%20slika.PNG)
 
 
 ## Schematics
