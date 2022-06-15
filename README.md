@@ -37,9 +37,7 @@ __izhodi__:
 
 ### LAD diagram
 
-
 ![](https://github.com/AV-35/Dvigalo/blob/main/media/LadDiagram.PNG)
-
 
 ## Schematics
 
