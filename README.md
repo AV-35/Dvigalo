@@ -29,12 +29,16 @@ __izhodi__:
 
 
 
+## Vezave
+
+### Mitsubishi Alpha
+
+![](https://github.com/AV-35/Dvigalo/blob/main/media/MitubishiAlpha_Vezava.PNG)
+
+### LAD diagram
 
 
-## LAD diagram
-
-
-![](https://github.com/AV-35/Dvigalo/blob/main/media/Zajeta%20slika.PNG)
+![](https://github.com/AV-35/Dvigalo/blob/main/media/LadDiagram.PNG)
 
 
 ## Schematics
