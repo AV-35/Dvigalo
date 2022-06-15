@@ -37,7 +37,7 @@ __izhodi__:
 
 ## Schematic Dvigal mitubishi/EasySoft
 
-![](https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf)
+https://github.com/AV-35/Dvigalo/Schematic_Divgalo_Mitsubisi&EasySoft.pdf
 
 
 
